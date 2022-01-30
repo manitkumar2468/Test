@@ -17,6 +17,6 @@ else{
 	b = next;
 	
     }
-    alert(a)
+    alert("The " + num1+"th" + " term in fibonacci series is = " + a)
     
 }
