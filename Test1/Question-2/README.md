@@ -1,0 +1,1 @@
+Program to print all prime numbers in range 1 to n. take n from user.
