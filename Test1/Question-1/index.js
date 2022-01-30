@@ -17,6 +17,6 @@ else{
 	b = next;
 	
     }
-    console.log(a)
+    alert(a)
     
 }
