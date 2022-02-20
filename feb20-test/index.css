@@ -1,0 +1,223 @@
+.main_body{
+    background-color: hsl(204, 77%, 50%);
+    
+}
+.responsive{
+    width: 90%;
+    margin: auto;
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 1px;
+    border: solid grey;
+
+}
+ .open_document{
+     width: 80%;
+     margin: auto;
+     background-color: yellow;
+     text-align: center;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+
+ .title_div{
+     width: 90%;
+     margin: auto;
+     background-color: yellow;
+     text-align: center;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+
+ .body_div{
+     width: 90%;
+     margin: auto;
+     background-color: plum;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+ .internal_body{
+     width: 20%;
+     margin: auto;
+     text-align: center;
+     background-color: yellow;
+     border: solid grey;
+     margin-top: 10px;
+     
+ }
+
+ .wrapper{
+     width: 90%;
+     margin: auto;
+     background-color: lightgreen;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+
+ .wrapper_inside{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    border: solid grey;
+ }
+
+ .container1{
+     width: 90%;
+     margin: auto;
+     background-color: lightcyan;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+ .container1_inside{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    border: solid grey;
+ }
+
+ .header{
+     width: 80%;
+     margin: auto;
+     background-color: beige;
+     text-align: center;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+
+ .header_inside{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid grey;
+ }
+
+ .navigation{
+    width: 80%;
+     margin: auto;
+     background-color: plum;
+     text-align: center;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+ }
+
+ .navigation_inside{
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid grey;
+ }
+.container2{
+    width: 80%;
+     margin: auto;
+     background-color: skyblue;
+     text-align: center;
+     padding: 1px;
+     margin-top: 10px;
+     border: solid grey;
+}
+
+.container2_inside{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid grey;
+}
+
+.content{
+    display: inline-block;
+    margin-left: 10px;
+    width: 40%;
+    text-align: center;
+    background-color: white;
+    border: solid grey;
+    
+}
+.float_right{
+    float: right;
+    margin-right: 10px;
+    width: 40%;
+    text-align: center;
+    background-color: white;
+    border: solid grey;
+    
+}
+
+.footer{
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    padding: 1px;
+    margin-top: 10px;
+    border: solid grey;
+    
+}
+
+.footer_inside{
+    width: 50%;
+    margin: auto;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid grey;
+    
+}
+
+.container1_close{
+    width: 50%;
+    margin: auto;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid grey;
+}
+.wrapper_close{
+    width: 50%;
+    margin: auto;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid grey;
+}
+
+.body_close{
+    display: inline-block;
+    margin-top: 10px;
+    width: 35%;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 15%;
+    border: solid grey;
+}
+.html_close{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 35%;
+    background-color: yellow;
+    text-align: center;
+    border: solid grey;
+}
