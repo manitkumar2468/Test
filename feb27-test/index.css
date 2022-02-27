@@ -1,0 +1,115 @@
+.main{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    height: 700px;
+}
+
+.section{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.one{
+    width: 30%;
+    height: 300px;
+    background-color: red;
+}
+.two{
+    width: 50%;
+    height: 150px;
+    background-color: yellow;
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 29%;
+}
+
+.three{
+    width: 49.5%;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 29%;
+}
+
+.four{
+    width: 20%;
+    height: 300px;
+    background-color: rgb(201, 8, 159);
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 78.4%;
+}
+.five{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(247, 123, 7);
+    position: absolute;
+}
+
+.six{
+    width: 15%;
+    height: 150px;
+    background-color: aqua;
+    position: absolute;
+    margin-left: 49.4%;
+    
+}
+
+.seven{
+    width: 34%;
+    height: 300px;
+    background-color: blueviolet;
+    position: absolute;
+    margin-left: 64.4%;
+    
+
+}
+
+.eight{
+    width: 64.5%;
+    height: 150px;
+    background-color: burlywood;
+    position: absolute;
+    margin-top: 150px;
+}
+
+.number1{
+    text-align: center;
+    padding-top: 25%;
+    font-size: xx-large;
+}
+.number2{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px
+}
+.number3{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 120px
+}
+.number4{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px
+}
+.number5{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px
+}
+.number6{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px
+}
+.number7{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 150px;
+}
+.number8{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 80px;
+}
