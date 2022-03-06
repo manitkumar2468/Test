@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    background-color: antiquewhite;
+}
+.banner{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(158, 13, 98);
+}
+
+.upper_sec{
+    border: 1px solid black;
+    margin-top: -4px;
+}
+
+.lower_sec{
+    border: 1px solid black;
+    margin-top: 4px;
+}
+
+.samsung,.apple,.realme,.oneplus{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.flex_image{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.Wishlist{
+    float: left;
+}
+
+.Buy{
+    float: right;
+}
+
+.details_hide{
+    display: none;
+}
+
+
+
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    
+}
+
+nav button{
+    width: 150px;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: -5px;
+    background-color: aquamarine;
+
+}
+
+nav button:active{
+    background-color: azure;
+}
+
+.samsung div>button,.oneplus div>button,
+.realme div>button,.apple div>button{
+    width: 45%;
+    height: 25px;
+    border: 2px solid red;
+    margin-top: -2px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.samsung div>button:active,.apple div>button:active,
+.realme div>button:active,.oneplus div>button:active{
+    background-color: grey;
+}
